@@ -1,16 +1,4 @@
-// const newBtn=document.getElementById('newbtn');
-// newBtn.addEventListener('onclick',()=>{
-//     console.log('executed');
-//     location.href = "https://www.who.int/news-room/fact-sheets/detail/healthy-diet";
-// })
 
-//  newBtn('click',()=>{
-//  console.log('executed');
-//         location.href = "https://www.who.int/news-room/fact-sheets/detail/healthy-diet";
-       
-
-// });
-// newBtn();
 
 document. getElementById("newbtn"). onclick = function () {
     location.href = "https://www.who.int/news-room/fact-sheets/detail/healthy-diet";
