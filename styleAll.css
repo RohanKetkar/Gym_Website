@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Mono&family=Source+Sans+Pro:wght@700&family=Tiro+Bangla&display=swap');
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+    background-size: 100vw 100vh;
+}
+
+body {
+ background: linear-gradient(orange,white,rgb(0, 62, 128));
+    /* background: linear-gradient(rgb(132, 227, 132), rgb(221, 221, 152),rgb(233, 101, 101)); */
+}
+
+.smallBody {
+    padding: 20px 20px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    min-height: 400px;
+    min-width: 400px;
+    background-image: url('/7VA.gif');
+    background-repeat: no-repeat;
+    
+
+}
+
+.flex {
+    font-size: 40px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    /* font-family: 'Bebas Neue', cursive; */
+font-family: 'Roboto Mono', monospace;
+/* font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Tiro Bangla', serif; */
+color:blue;
+}
